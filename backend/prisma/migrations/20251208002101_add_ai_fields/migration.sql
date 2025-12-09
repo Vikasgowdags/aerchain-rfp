@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "RFP" ADD COLUMN "keyPoints" TEXT;
+ALTER TABLE "RFP" ADD COLUMN "summary" TEXT;
